@@ -3,6 +3,7 @@
 ## Visualizations Example Screenshots
 
 ![Dashboard_1.png](Snapshots%2FDashboard_1.png)
+
 ![Dashboard_2.png](Snapshots%2FDashboard_2.png)
 
 ## How to Use This Project
